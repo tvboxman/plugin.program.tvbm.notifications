@@ -1,6 +1,6 @@
 import os,sys,xbmc,xbmcplugin,xbmcaddon,xbmcgui,urllib,urllib2,re,time,datetime,string,StringIO,logging,random,array,htmllib,xbmcvfs
 #import common
-addon_id='plugin.program.xbmchub.notifications'
+addon_id='plugin.program.tvbm.notifications'
 try: 				from addon.common.addon import Addon
 except:
     try: 		from t0mm0.common.addon import Addon
